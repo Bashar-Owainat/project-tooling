@@ -51,4 +51,11 @@ Regarding **Linux** I chose it for the following reasons:
 -To use its command line
 
 A for **GitHub** I chose it because it’s a very large community that allows to contributes on open-source projects, it’s base on git which means it allows multiple developers to work on same project without causing a mess. Also, it helps the user to get great documentation and it allows you to use MarkDown language.
+## 2.3
+Relate the selected tools and techniques to your business-related problem by comparing the different development tools and techniques you researched and explain the reasons for your selection
+
+- we used black box testing since we only care about the input and the output only.
+- we preferred to use Linux because it’s faster than Windows and it’s an open source.
+- VS code provides many extensions and does not consume a lot of memory.
+- we have multiple members in our team so we used GitHub to manage the process of sharing our code.
 
