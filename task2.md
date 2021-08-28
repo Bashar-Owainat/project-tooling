@@ -56,6 +56,10 @@ Relate the selected tools and techniques to your business-related problem by com
 
 - we used black box testing since we only care about the input and the output only.
 - we preferred to use Linux because it’s faster than Windows and it’s an open source.
-- VS code provides many extensions and does not consume a lot of memory.
+- VS code provides many extensions and does not consume a lot of memory and we had a lot of files so that's why we chose it.
 - we have multiple members in our team so we used GitHub to manage the process of sharing our code.
 
+resources I used
+https://www.edureka.co/blog/linux-vs-windows/
+https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/
+https://arbisoft.com/blog/vs-code-versus-pycharm-the-smackdown/
