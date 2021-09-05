@@ -5,11 +5,11 @@
 - Here in Jordan, we don't have a lot of web pages to order food online so we decided to create
 a web page that gathers restaurants in one place to make the process of ordering food easier.
 User and system requirements
-1.	There is a div for each restaurant category in the home page.
-2.	Once the user clicks on the image of their favourite restaurant it opens the page for that restaurant.
-3.	The user can find the menu in each restaurant page.
-4.	The shopping cart can be checked by the user.
-5.	 The user can see the total of all meals
+1.	There should be an image each restaurant in the home page.
+2.	The system should send the user to the restaurant's page when they click on it.
+3.	The user should find a menu in each page for the restaurants.
+4.	The user should have the ability to check their cart.
+5.	The user should have the ability to see the total of all prices.
 
 ## 1.2
 2. Since the success of each project is often associated with many risks, you need to identify areas of risk related to the successful completion of your application
